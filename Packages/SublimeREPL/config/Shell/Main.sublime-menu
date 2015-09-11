@@ -1,0 +1,26 @@
+[
+     {
+        "id": "tools",
+        "children":
+        [{
+            "caption": "SublimeREPL",
+            "mnemonic": "r",
+            "id": "SublimeREPL",
+            "children":
+            [
+                {"command": "repl_open",
+                 "caption": "Shell",
+                 "id": "repl_shell",
+                 "mnemonic": "o",
+                 "args": {
+                    "type": "subprocess",
+                    "encoding": "utf8",
+                    "cmd": ["bash", "-i"],
+                    "cwd": "$file_path",
+                    "external_id": "octave",
+                    }
+                }
+            ]
+        }]
+    }
+]

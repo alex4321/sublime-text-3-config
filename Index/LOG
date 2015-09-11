@@ -1,0 +1,6 @@
+2015/09/11-07:37:51.680328 7eff7ffff700 Recovering log #16
+2015/09/11-07:37:51.680470 7eff7ffff700 Level-0 table #18: started
+2015/09/11-07:37:51.724952 7eff7ffff700 Level-0 table #18: 348 bytes OK
+2015/09/11-07:37:51.817421 7eff7ffff700 Delete type=3 #14
+2015/09/11-07:37:51.817513 7eff7ffff700 Delete type=0 #16
+2015/09/11-07:37:51.855154 7eff7d09d700 Moved #5 to level-1 263 bytes OK: files[ 3 1 0 0 0 0 0 ]

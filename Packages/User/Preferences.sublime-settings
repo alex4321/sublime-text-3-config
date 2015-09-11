@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/iPlastic (SL).tmTheme",
+	"disabled_packages":
+	[
+		"Vintage"
+	],
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}

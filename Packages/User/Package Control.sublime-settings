@@ -1,0 +1,32 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketGuard",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Grunt",
+		"JSHint",
+		"LESS",
+		"Package Control",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"STProjectMaker",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsl",
+		"SublimeLinter-php",
+		"SublimeLinter-phplint",
+		"SublimeLinter-pylint",
+		"SublimeREPL"
+	]
+}

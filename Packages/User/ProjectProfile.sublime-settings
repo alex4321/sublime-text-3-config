@@ -1,0 +1,19 @@
+{
+	"always": ["Package Control", "0_package_control_loader", "bz2", "ssl-linux", "STProjectMaker", "SublimeREPL", 
+		"SideBarEnhancements", "Git", "GitGutter", "DocBlockr", "BracketGuard", "BracketHighlighter", "AutoFileName",
+		"SideBarGit", "SublimeLinter"]
+	"profiles": {
+		"PHP": ["Grunt", 
+			"SublimeCodeIntel", 
+			"SublimeLinter-csslint", "SublimeLinter-html-tidy", "SublimeLinter-jshint", "SublimeLinter-jsl", "SublimeLinter-phplint", "SublimeLinter-php",
+			"JSHint", 
+			"LESS",
+			"Emmet"],
+		"Django": ["Grunt", 
+			"SublimeCodeIntel", 
+			"SublimeLinter-csslint", "SublimeLinter-html-tidy", "SublimeLinter-jshint", "SublimeLinter-jsl", "SublimeLinter-pylink",
+			"JSHint",
+			"LESS",
+			"Emmet"],
+	}
+}
